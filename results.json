@@ -1,0 +1,51 @@
+[
+    {
+        "port": "135",
+        "protocol": "tcp",
+        "service": "msrpc",
+        "product": "Microsoft Windows RPC",
+        "version": "unknown"
+    },
+    {
+        "port": "445",
+        "protocol": "tcp",
+        "service": "microsoft-ds",
+        "product": "unknown",
+        "version": "unknown"
+    },
+    {
+        "port": "902",
+        "protocol": "tcp",
+        "service": "vmware-auth",
+        "product": "VMware Authentication Daemon",
+        "version": "1.10"
+    },
+    {
+        "port": "912",
+        "protocol": "tcp",
+        "service": "vmware-auth",
+        "product": "VMware Authentication Daemon",
+        "version": "1.0"
+    },
+    {
+        "port": "2179",
+        "protocol": "tcp",
+        "service": "vmrdp",
+        "product": "unknown",
+        "version": "unknown"
+    },
+    {
+        "port": "5985",
+        "protocol": "tcp",
+        "service": "http",
+        "product": "Microsoft HTTPAPI httpd",
+        "version": "2.0"
+    },
+    {
+        "port": "8090",
+        "protocol": "tcp",
+        "service": "tcpwrapped",
+        "product": "unknown",
+        "version": "unknown"
+    }
+]

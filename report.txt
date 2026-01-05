@@ -1,0 +1,19 @@
+NMAP SECURITY SCAN REPORT
+==============================
+Target: 127.0.0.1
+Scan Date: 2026-01-04 18:30:55.172323
+
+Open Ports & Services:
+
+Port 135/tcp - msrpc (Microsoft Windows RPC unknown)
+Port 445/tcp - microsoft-ds (unknown unknown)
+Port 902/tcp - vmware-auth (VMware Authentication Daemon 1.10)
+Port 912/tcp - vmware-auth (VMware Authentication Daemon 1.0)
+Port 2179/tcp - vmrdp (unknown unknown)
+Port 5985/tcp - http (Microsoft HTTPAPI httpd 2.0)
+Port 8090/tcp - tcpwrapped (unknown unknown)
+
+Security Recommendation:
+- Close unused ports
+- Restrict access using firewalls
+- Keep services updated

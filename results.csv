@@ -1,0 +1,8 @@
+port,protocol,service,product,version
+135,tcp,msrpc,Microsoft Windows RPC,unknown
+445,tcp,microsoft-ds,unknown,unknown
+902,tcp,vmware-auth,VMware Authentication Daemon,1.10
+912,tcp,vmware-auth,VMware Authentication Daemon,1.0
+2179,tcp,vmrdp,unknown,unknown
+5985,tcp,http,Microsoft HTTPAPI httpd,2.0
+8090,tcp,tcpwrapped,unknown,unknown
