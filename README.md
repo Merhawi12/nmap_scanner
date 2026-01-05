@@ -1,17 +1,8 @@
 # nmap_scanner
 This project is a python-base  network reconnaissance and security assessement tool that automates Nmap scanning, parses open ports and exposed service, and produces structured security outputs in JSON, CSV, and human readable report format
 
-Target System
-     ↓
-Nmap Scan (subprocess)
-     ↓
-XML Output
-     ↓
-Python XML Parser
-     ↓
-Structured Data (Dict)
-     ↓
-JSON / CSV / Security Report
+Target System => Nmap Scan (subprocess) =>
+XML Output => Python XML Parser => Structured Data (Dict) => JSON / CSV / Security Report
 
 #Nmap Integration(Reconnaissance Layer)
 The script uses Python's subprocess module to execute
